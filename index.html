@@ -393,10 +393,11 @@
                 description: node.querySelector("description").textContent,
                 image: node.querySelector("image")?.textContent,
                 price: node.querySelector("price") ? parseFloat(node.querySelector("price").textContent) : null,
+                icon: node.querySelector("icon")?.textContent,
               }));
             setData({
               carousel: parseItems(xml.querySelectorAll("carousel slide")),
-              services: parseItems(xml.querySelectorAll("services service")).map((s) => ({ ...s, icon: s.icon || "✅" })),
+              services: parseItems(xml.querySelectorAll("services service")),
               headerLinks: Array.from(xml.querySelectorAll("headerLinks section")).map((section) => ({
                 title: section.querySelector("title").textContent,
                 items: parseItems(section.querySelectorAll("item")),
