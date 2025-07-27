@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <carousel>
+    <slide>
+      <id>1</id>
+      <title>Handmade Ceramic Art</title>
+      <description>Explore unique pottery crafted by skilled artisans</description>
+      <image>https://images.unsplash.com/photo-1600585154340-be6161a56a0c</image>
+    </slide>
+    <slide>
+      <id>2</id>
+      <title>Artisanal Jewelry Collection</title>
+      <description>Timeless designs with intricate details</description>
+      <image>https://images.unsplash.com/photo-1606760227091-3dd7e8e68647</image>
+    </slide>
+    <slide>
+      <id>3</id>
+      <title>Traditional Woven Textiles</title>
+      <description>Vibrant patterns woven with heritage</description>
+      <image>https://images.unsplash.com/photo-1612277795464-3785381b8e26</image>
+    </slide>
+    <slide>
+      <id>4</id>
+      <title>Hand-Carved Woodwork</title>
+      <description>Beautifully crafted wooden decor</description>
+      <image>https://images.unsplash.com/photo-1593693397690-362cb9666fc2</image>
+    </slide>
+  </carousel>
+  <services>
+    <service>
+      <id>1</id>
+      <title>Fast Shipping</title>
+      <description>Get your orders delivered in 3-5 days</description>
+      <icon>🚚</icon>
+    </service>
+    <service>
+      <id>2</id>
+      <title>Secure Payments</title>
+      <description>Shop safely with encrypted transactions</description>
+      <icon>🔒</icon>
+    </service>
+    <service>
+      <id>3</id>
+      <title>Artisan Quality</title>
+      <description>Curated products from trusted craftsmen</description>
+      <icon>✅</icon>
+    </service>
+    <service>
+      <id>4</id>
+      <title>Customer Support</title>
+      <description>24/7 assistance for your shopping needs</description>
+      <icon>📞</icon>
+    </service>
+  </services>
+  <headerLinks>
+    <section>
+      <title>Handmade Pottery</title>
+      <item>
+        <id>1</id>
+        <title>Blue Ceramic Vase</title>
+        <description>Elegant vase with a glossy finish</description>
+        <price>49.99</price>
+        <image>https://images.unsplash.com/photo-1600585154340-be6161a56a0c</image>
+      </item>
+      <item>
+        <id>2</id>
+        <title>Rustic Clay Pot</title>
+        <description>Perfect for plants or decor</description>
+        <price>29.99</price>
+        <image>https://images.unsplash.com/photo-1593693397690-362cb9666fc2</image>
+      </item>
+      <item>
+        <id>3</id>
+        <title>Hand-Painted Mug</title>
+        <description>Unique ceramic mug for daily use</description>
+        <price>19.99</price>
+        <image>https://images.unsplash.com/photo-1514228742587-6b1558f5d8b4</image>
+      </item>
+    </section>
+    <section>
+      <title>Artisanal Jewelry</title>
+      <item>
+        <id>4</id>
+        <title>Silver Leaf Necklace</title>
+        <description>Delicate handcrafted silver necklace</description>
+        <price>79.99</price>
+        <image>https://images.unsplash.com/photo-1606760227091-3dd7e8e68647</image>
+      </item>
+      <item>
+        <id>5</id>
+        <title>Beaded Bracelet</title>
+        <description>Colorful beads with artisan charm</description>
+        <price>34.99</price>
+        <image>https://images.unsplash.com/photo-1611599953569-e04f4a11d3a6</image>
+      </item>
+    </section>
+    <section>
+      <title>Woven Textiles</title>
+      <item>
+        <id>6</id>
+        <title>Handwoven Wool Rug</title>
+        <description>Traditional patterns for modern homes</description>
+        <price>149.99</price>
+        <image>https://images.unsplash.com/photo-1612277795464-3785381b8e26</image>
+      </item>
+      <item>
+        <id>7</id>
+        <title>Cotton Wall Hanging</title>
+        <description>Artistic textile decor</description>
+        <price>59.99</price>
+        <image>https://images.unsplash.com/photo-1600585152915-18a9a6d7d6e0</image>
+      </item>
+    </section>
+  </headerLinks>
+</content>
